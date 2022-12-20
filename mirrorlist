@@ -1,0 +1,126 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2022-12-20
+##
+
+## United States
+#Server = https://ridgewireless.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://forksystems.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://america.mirror.pkgbuild.com/$repo/os/$arch
+## United States
+#Server = https://mirror.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://arch.mirror.ivo.st/$repo/os/$arch
+## United States
+#Server = https://mirror.phx1.us.spryservers.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://arch.hu.fo/archlinux/$repo/os/$arch
+## United States
+#Server = https://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
+## United States
+#Server = https://ord.mirror.rackspace.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://arlm.tyzoid.com/$repo/os/$arch
+## United States
+#Server = https://mirror.clarkson.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://ziply.mm.fcix.net/archlinux/$repo/os/$arch
+## Chile
+#Server = https://mirror1.cl.netactuate.com/archlinux/$repo/os/$arch
+## Canada
+#Server = https://mirror2.evolution-host.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.umd.edu/archlinux/$repo/os/$arch
+## Canada
+#Server = https://mirror.xenyth.net/archlinux/$repo/os/$arch
+## Canada
+#Server = https://mirror.scd31.com/arch/$repo/os/$arch
+## United States
+#Server = https://mirrors.vectair.net/archlinux/$repo/os/$arch
+## Argentina
+#Server = https://mirrors.eze.sysarmy.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.mia11.us.leaseweb.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.zackmyers.io/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.mit.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://codingflyboy.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.radwebhosting.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://uvermont.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://iad.mirrors.misaka.one/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.sfo12.us.leaseweb.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://irltoolkit.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://dfw.mirror.rackspace.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.wdc1.us.leaseweb.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://repo.ialab.dsu.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.arizona.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.lty.me/archlinux/$repo/os/$arch
+## United States
+#Server = https://mnvoip.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.theash.xyz/arch/$repo/os/$arch
+## United States
+#Server = https://mirror.pit.teraswitch.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.xtom.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.ette.biz/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.stephen304.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.dal10.us.leaseweb.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.tmmworkshop.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+## Canada
+#Server = https://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+## Mexico
+#Server = https://arch.jsc.mx/$repo/os/$arch
+## United States
+#Server = https://mirror2.sandyriver.net/pub/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.bloomu.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://arch.mirror.constant.com/$repo/os/$arch
+## United States
+#Server = https://ftp.sudhip.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://coresite.mm.fcix.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.rit.edu/archlinux/$repo/os/$arch
+## Chile
+#Server = https://mirror.ufro.cl/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.sonic.net/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirror.hackingand.coffee/arch/$repo/os/$arch
+## United States
+#Server = https://zxcvfdsa.com/arch/$repo/os/$arch
+## Chile
+#Server = https://mirror.anquan.cl/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+## United States
+#Server = https://archmirror1.octyl.net/$repo/os/$arch
+## United States
+#Server = https://iad.mirror.rackspace.com/archlinux/$repo/os/$arch
+## United States
+#Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
